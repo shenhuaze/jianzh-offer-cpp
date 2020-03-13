@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(find_minimum_in_rotated_sorted_array_ii)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(find_minimum_in_rotated_sorted_array_ii find_minimum_in_rotated_sorted_array_ii.cpp)
